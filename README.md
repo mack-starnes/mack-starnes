@@ -1,8 +1,6 @@
 Hi, I’m @mack-starnes
-- 👁️ I’m interested in math, mt. biking, chess, skiing.
-- 📖 I’m currently learning spanish, Go, C#, etc.
-- 🔌 Pronouns: NAND/NOR
-- ⚡ fact: I love to ride my mountain bike and ski. 
+- 👁️ interested in math, mt. biking, bjj, chess, skiing, books etc
+- 📖 I’m currently learning Go, Rust, C#, spanish, german etc. as time allows
 
 <!---
 mack-starnes/mack-starnes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
